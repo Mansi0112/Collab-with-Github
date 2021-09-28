@@ -1,7 +1,7 @@
 # Collab-with-Github
 Hello all!
 Please add your Github profile username and Email Id here.
---------------------------------------------------STEPS TO MAKE A PULL REQUEST------------------------------------------------------------
+---------------STEPS TO MAKE A PULL REQUEST IN GIT--------------
 1. Fork the project you want to contribute to
 2. Clone that new project from your forked Github repo to your computer
 3. cd into that project
@@ -12,3 +12,5 @@ Please add your Github profile username and Email Id here.
 8. Switch back to master (or main) with git checkout master
 9. Push the changes back to Github with git push origin my-improvements
 10. Go to the link git gives you to complete the pull request process
+ 
+ 1. (Mansi0112) mansi.pardeshi2001@gmail.com
